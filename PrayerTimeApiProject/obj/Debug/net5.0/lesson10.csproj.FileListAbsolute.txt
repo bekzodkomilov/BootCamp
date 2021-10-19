@@ -1,0 +1,16 @@
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10.deps.json
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10.runtimeconfig.json
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10.runtimeconfig.dev.json
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10.dll
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/ref/lesson10.dll
+/home/bekzod/PrayerTimeApiProject/bin/Debug/net5.0/lesson10.pdb
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.csproj.AssemblyReference.cache
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.GeneratedMSBuildEditorConfig.editorconfig
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.AssemblyInfoInputs.cache
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.AssemblyInfo.cs
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.csproj.CoreCompileInputs.cache
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.dll
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/ref/lesson10.dll
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.pdb
+/home/bekzod/PrayerTimeApiProject/obj/Debug/net5.0/lesson10.genruntimeconfig.cache
