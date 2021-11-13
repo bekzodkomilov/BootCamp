@@ -5,3 +5,7 @@
 - Lab 5
 
 # API Tasks 
+- HttpPost
+- HttpGet
+- HttpPut
+- HttpDelete
