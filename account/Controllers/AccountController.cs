@@ -1,6 +1,10 @@
+using Microsoft.AspNetCore.Mvc;
+
 namespace account.Controllers
 {
-    public class AccountController
+    [ApiController]
+    [Route("[controller]")]
+    public class AccountController : ControllerBase
     {
         
     }

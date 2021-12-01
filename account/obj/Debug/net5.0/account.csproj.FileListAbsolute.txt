@@ -1,7 +1,0 @@
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.csproj.AssemblyReference.cache
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.GeneratedMSBuildEditorConfig.editorconfig
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.AssemblyInfoInputs.cache
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.AssemblyInfo.cs
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.csproj.CoreCompileInputs.cache
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.MvcApplicationPartsAssemblyInfo.cs
-/home/bekzod/BootCamp/account/obj/Debug/net5.0/account.MvcApplicationPartsAssemblyInfo.cache
