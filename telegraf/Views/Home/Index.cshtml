@@ -1,0 +1,39 @@
+﻿@model NewPostViewModel
+
+@{
+    ViewData["Title"] = "IlmHub messager";
+}
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/home/bekzod/BootCamp/telegraf/Views/Home/style.cscss">
+  <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+  <link href="'https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css" rel='stylesheet'>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+<body>
+  <div class="sidebar">
+    <div class="logo_content">
+      <div class="logo">
+      <box-icon type='solid' name='chat'></box-icon>
+        <div class="logo_name">IlmHub</div>
+      </div>
+    </div>
+    <textarea id="note-content" placeholder="Write..." rows="10"></textarea>
+  </div>
+  <div class="button">
+    <div class="content">
+      <i class="bx bx-cloud-download"></i>
+      <span class="button-text">Send</span>
+    </div>
+  </div>
+
+
+</body>
+
+
+</html>
